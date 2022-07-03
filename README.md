@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React , Django**
 
-- 👯 I’m looking to collaborate on [Visualiser](https://62c0b151f22cef0728b4218b--cozy-baklava-ed75de.netlify.app/)
+- 👯 I’m looking to collaborate on [Diffrent Algo-Visualiser]
 
 - 👨‍💻 All of my projects are available at [https://shubhamm.me/](https://shubhamm.me/)
 
